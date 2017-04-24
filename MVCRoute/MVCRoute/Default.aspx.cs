@@ -14,13 +14,14 @@ namespace MVCRoute
 
         public EmployeeRepository Repository
         {
-            get { return repository; }
+            get { return repository ?? new EmployeeRepository(); }
         }
         
         
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (IsPostBack)
+                return;
         }
     }
 }

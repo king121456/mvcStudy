@@ -2,3 +2,7 @@ E:\MyRepository\MVCRoute\Model\bin\Debug\Model.dll
 E:\MyRepository\MVCRoute\Model\bin\Debug\Model.pdb
 E:\MyRepository\MVCRoute\Model\obj\Debug\Model.dll
 E:\MyRepository\MVCRoute\Model\obj\Debug\Model.pdb
+F:\git\mvcStudy\MVCRoute\Model\bin\Debug\Model.dll
+F:\git\mvcStudy\MVCRoute\Model\bin\Debug\Model.pdb
+F:\git\mvcStudy\MVCRoute\Model\obj\Debug\Model.dll
+F:\git\mvcStudy\MVCRoute\Model\obj\Debug\Model.pdb

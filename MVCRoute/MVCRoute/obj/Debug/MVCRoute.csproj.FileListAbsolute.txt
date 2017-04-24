@@ -2,3 +2,4 @@ E:\MyRepository\MVCRoute\MVCRoute\bin\MVCRoute.dll
 E:\MyRepository\MVCRoute\MVCRoute\bin\MVCRoute.pdb
 E:\MyRepository\MVCRoute\MVCRoute\obj\Debug\MVCRoute.dll
 E:\MyRepository\MVCRoute\MVCRoute\obj\Debug\MVCRoute.pdb
+F:\git\mvcStudy\MVCRoute\MVCRoute\obj\Debug\MVCRoute.pdb
